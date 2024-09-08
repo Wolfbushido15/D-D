@@ -24,11 +24,3 @@ Um projeto simples para buscar informações sobre as classes do jogo **Dungeons
 
 ## Site do projeto
    https://66dd988a21f96af5d89da039--melodious-cranachan-f06687.netlify.app/
-   
-##Estrutura do Projeto
-├── index.html        # Estrutura HTML principal
-├── style.css         # Estilizações de layout e responsividade
-├── dados.js          # Dados das classes de D&D
-├── script.js         # Lógica de busca e exibição de resultados
-└── assets
-    └── ded.jpg_large # Imagem de fundo
