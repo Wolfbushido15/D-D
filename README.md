@@ -22,9 +22,9 @@ Um projeto simples para buscar informações sobre as classes do jogo **Dungeons
 
 ## Como Executar o Projeto
 
-1. Clone o repositório:
-   ```bash
+## Site do projeto
    https://66dd988a21f96af5d89da039--melodious-cranachan-f06687.netlify.app/
+   
 ##Estrutura do Projeto
 ├── index.html        # Estrutura HTML principal
 ├── style.css         # Estilizações de layout e responsividade
